@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/myepipassport/static/css/main.15955296.css",
+    "main.js": "/myepipassport/static/js/main.42d91bc8.js",
+    "static/js/239.d85762ed.chunk.js": "/myepipassport/static/js/239.d85762ed.chunk.js",
+    "static/js/213.445675c1.chunk.js": "/myepipassport/static/js/213.445675c1.chunk.js",
+    "static/js/732.a80e2e52.chunk.js": "/myepipassport/static/js/732.a80e2e52.chunk.js",
+    "index.html": "/myepipassport/index.html",
+    "main.15955296.css.map": "/myepipassport/static/css/main.15955296.css.map",
+    "main.42d91bc8.js.map": "/myepipassport/static/js/main.42d91bc8.js.map",
+    "239.d85762ed.chunk.js.map": "/myepipassport/static/js/239.d85762ed.chunk.js.map",
+    "213.445675c1.chunk.js.map": "/myepipassport/static/js/213.445675c1.chunk.js.map",
+    "732.a80e2e52.chunk.js.map": "/myepipassport/static/js/732.a80e2e52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15955296.css",
+    "static/js/main.42d91bc8.js"
+  ]
+}
