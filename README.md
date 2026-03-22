@@ -1,4 +1,4 @@
-# 🧠 Epilepsy Passport Generator
+# My Epilepsy Passport Generator
 
 **Free, private, open-source tool to create a portable epilepsy medical summary.**
 
