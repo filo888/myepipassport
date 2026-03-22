@@ -1,0 +1,10 @@
+{
+  "short_name": "EpilepsyPassport",
+  "name": "Epilepsy Passport Generator",
+  "description": "Create a portable, printable epilepsy medical summary",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a5276",
+  "background_color": "#f4f6f9"
+}
