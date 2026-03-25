@@ -43,9 +43,9 @@ When patients with epilepsy switch doctors — from pediatric to adult neurology
 
 Visit the hosted version :
 
-> **https://yourusername.github.io/epilepsy-passport**
+> **https://filo888.github.io/myepipassport/**
 
-No installation needed. Just open the website and start filling in the form.
+Just open the website and start filling in the form.
 
 ---
 
@@ -117,7 +117,7 @@ Contributions are welcome! Here's how to help:
 - **No accounts.** Nothing to sign up for.
 - **Zero data transmission.** Nothing leaves your device unless you click "Download PDF" or "Export JSON" — and those files go only to your device.
 
-This architecture means HIPAA and GDPR concerns are eliminated by design.
+Each EPIPassport is compiled on the patient's device and not stored or shared in any database.
 
 ---
 
@@ -131,10 +131,4 @@ This tool is **not a medical device** and does **not provide medical advice**. I
 
 MIT — see [LICENSE](LICENSE) for details.
 
----
 
-## Acknowledgments
-
-- **ILAE** (International League Against Epilepsy) for seizure classification standards
-- **jsPDF** for client-side PDF generation
-- Built with React and hosted on GitHub Pages
